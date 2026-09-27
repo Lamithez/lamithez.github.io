@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="blue">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="description" content="{{DESCRIPTION}}" />
+    <title>{{TITLE}}</title>
+    <link rel="icon" href="{{BASE}}assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="{{BASE}}assets/blog.css" />
+    <link rel="stylesheet" href="{{BASE}}assets/vendor/katex/katex.min.css" />
+    <script src="{{BASE}}assets/blog.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到主要内容</a>
+    <div class="sheet">
+      {{HEADER}}
+      <main id="main" class="{{MAIN_CLASS}}">{{CONTENT}}</main>
+      <footer>
+        <span>{{BLOG_TITLE}} · 个人写作</span>
+        <span>知识 · 记录 · 思考</span>
+        <span>{{YEAR}}</span>
+      </footer>
+    </div>
+  </body>
+</html>

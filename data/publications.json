@@ -1,0 +1,32 @@
+[
+  {
+    "type": "paper",
+    "title": "代表性论文标题：研究问题、方法与主要发现",
+    "authors": ["你的姓名", "合作者姓名", "合作者姓名"],
+    "venue": "期刊 / 会议名称",
+    "location": "出版或会议地点待补充",
+    "date": "年份待补充",
+    "url": "",
+    "sample": true
+  },
+  {
+    "type": "preprint",
+    "title": "进行中的研究：一个正在形成的解释框架",
+    "authors": ["合作者姓名", "你的姓名"],
+    "venue": "预印本平台",
+    "location": "发布地点待补充",
+    "date": "年份待补充",
+    "url": "",
+    "sample": true
+  },
+  {
+    "type": "thesis",
+    "title": "学位论文标题：系统性研究与主要贡献",
+    "authors": ["你的姓名"],
+    "venue": "学校 / 院系",
+    "location": "城市待补充",
+    "date": "年份待补充",
+    "url": "",
+    "sample": true
+  }
+]

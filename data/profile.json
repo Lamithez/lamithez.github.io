@@ -1,0 +1,75 @@
+{
+  "placeholder": true,
+  "name": "你的姓名",
+  "englishName": "Your Name",
+  "institution": "学校 / 研究机构",
+  "department": "院系 · 学术身份",
+  "location": "城市 · 国家",
+  "email": "",
+  "photo": "",
+  "links": [
+    {
+      "label": "Google Scholar",
+      "url": ""
+    },
+    {
+      "label": "ORCID",
+      "url": ""
+    },
+    {
+      "label": "GitHub",
+      "url": ""
+    }
+  ],
+  "bio": ["这里简要介绍你的学术身份、研究方向与当前工作。个人资料待补充。"],
+  "research": [
+    {
+      "title": "主要研究方向",
+      "description": "用一句话说明你最关注的问题，以及希望理解或解决的核心关系。",
+      "label": "问题 / QUESTION"
+    },
+    {
+      "title": "方法与理论",
+      "description": "介绍支撑研究的方法、理论框架，或你正在探索的技术路径。",
+      "label": "方法 / METHOD"
+    },
+    {
+      "title": "应用与验证",
+      "description": "说明研究所面向的对象、应用情境，以及检验结论的方式。",
+      "label": "证据 / EVIDENCE"
+    }
+  ],
+  "experience": [
+    {
+      "period": "起始年份 — 至今",
+      "type": "当前 / CURRENT",
+      "title": "当前学术身份或研究职位",
+      "institution": "学校 / 研究机构 · 院系或实验室",
+      "description": "研究主题、承担的工作与合作团队待补充。"
+    },
+    {
+      "period": "起始年份 — 结束年份",
+      "type": "教育 / EDUCATION",
+      "title": "学位 · 专业名称",
+      "institution": "学校名称 · 院系名称",
+      "description": "导师、论文题目或主要研究内容待补充。"
+    },
+    {
+      "period": "起始年份 — 结束年份",
+      "type": "研究 / RESEARCH",
+      "title": "研究助理 / 访问 / 实习经历",
+      "institution": "机构名称 · 团队名称",
+      "description": "参与的项目与个人贡献待补充。"
+    }
+  ],
+  "service": [
+    {
+      "title": "学术服务",
+      "description": "期刊 / 会议审稿，学术组织，教学与助教经历。根据真实经历填写。"
+    },
+    {
+      "title": "奖项与荣誉",
+      "description": "奖项名称、颁发机构与年份。没有相关内容时可移除此栏。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="description" content="{{DESCRIPTION}}" />
+    <title>{{TITLE}}</title>
+    <link rel="stylesheet" href="{{BASE}}assets/scholar.css" />
+    <script src="{{BASE}}assets/scholar.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到主要内容</a>
+    <div class="page">
+      {{PROFILE}}
+
+      <main id="main">
+        <header class="topline">
+          <span>学术档案 <span class="dot">/</span> SCHOLAR</span
+          ><span>{{PROFILE_STATUS}}</span>
+        </header>
+        {{NAVIGATION}} {{ABOUT}} {{RESEARCH}} {{PUBLICATIONS}} {{EXPERIENCE}}
+        {{SERVICE}}
+        <footer>
+          <span>个人学术主页 <span class="dot">/</span> ACADEMIC PROFILE</span
+          ><a href="#about">回到页首 ↑</a>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+{
+  "basePath": "/",
+  "url": "",
+  "repository": "",
+  "blog": {
+    "title": "纸上",
+    "subtitle": "NOTES & ESSAYS",
+    "headline": "把知识理清，\n也给想法留一页。",
+    "description": "系统的整理，日常的记录，以及尚未定形的思考。",
+    "author": "作者姓名待补充",
+    "navigation": [
+      {
+        "label": "关于作者",
+        "path": "blog/about/"
+      },
+      {
+        "label": "书籍",
+        "path": "blog/books/"
+      },
+      {
+        "label": "链接",
+        "path": "blog/links/"
+      }
+    ]
+  },
+  "announcement": {
+    "enabled": true,
+    "type": "danger",
+    "label": "建设中",
+    "message": "网站正在建设中，内容与功能将持续完善。"
+  }
+}
